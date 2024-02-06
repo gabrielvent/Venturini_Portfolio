@@ -1,6 +1,6 @@
 # Cientista de Dados / Analista de Dados / Analista de BI
 
-#### Technical Skills: Python, SQL, Power BI, Machine Learning
+#### Habilidades Técnicas: Python, SQL, Power BI, Machine Learning
 
 ## Education
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (_2019 - 2021_)								       		
