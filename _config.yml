@@ -1,5 +1,5 @@
 title: Gabriel Venturini
 logo: assets/circle_picture.png
-description: Currículo e Portfólio
-show_downloads: false
+#description: Currículo e Portfólio
+show_downloads: true
 theme: jekyll-theme-minimal
