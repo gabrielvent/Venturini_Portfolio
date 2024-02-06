@@ -2,11 +2,11 @@
 
 #### Habilidades Técnicas: Python, SQL, Power BI, Machine Learning
 
-## Education
+## Formação
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (_2019 - 2021_)								       		
 - Formação Cientista de Dados 4.0	| Data Science Academy (_2023 - Em andamento_)	 			        		
 
-## Work Experience
+## Experiências
 **Analista de Dados @ Litz Estratégia e Marketing (_Junho 2023 - Atual_)**
 - Responsável por analisar dados de clientes visando otimizar o resultado
 - Desenvolvi dashboards para diversas áreas de atuação, como varejo, franquias, serviços, entre outros
