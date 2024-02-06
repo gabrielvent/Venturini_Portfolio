@@ -1,9 +1,9 @@
 # Cientista de Dados / Analista de Dados / Analista de BI
 
-#### Habilidades Técnicas: Python, SQL, Power BI, Machine Learning
-
 ## Sobre mim
 Engenheiro de Produção, determinado e aprendo com muita facilidade. Tenho o **OBJETIVO** de aplicar meus conhecimentos na área de Ciência de Dados em posições, como Cientista de Dados, Analista de Dados e Analista de BI
+
+#### Habilidades Técnicas: Python, SQL, Power BI, Machine Learning
 
 ## Formação
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (_2019 - 2023_)								       		
@@ -30,6 +30,9 @@ Analisei o desempenho de algoritmos de **Machine Learning** para classificar o n
 [Publicado](http://dx.doi.org/10.14488/ENEGEP2023_TN_ST_402_1976_45823)
 
 Este artigo relata a aplicação de técnicas de aprendizado de máquina à base de dados da Secretaria Nacional de Aviação Civil com os dados da pesquisa de satisfação de usuários de aeroportos no Brasil. Foram aplicados os métodos **_Random Forest, KNN, Decision Tree_ e _Naive Bayes_** para classificar a satisfação dos usuários, sendo o grau médio de satisfação dos entrevistados utilizado como variável de saída. A técnica de _undersampling_ foi usada para melhorar o balanceamento da base e melhorar o desempenho das técnicas. Os modelos obtiveram bom desempenho na classificação dos usuários, porém pesquisas futuras ainda serão necessárias para ajustar os parâmetros dos modelos e obter melhores resultados. A pesquisa ainda revelou que os principais fatores que afetam a satisfação são a limpeza, conforto acústico, conforto térmico e disponibilidade de sanitários nos aeroportos.
+
+![SCORES](/assets/scores_aviacao.png)
+
 
 ### Classificação da satisfação em relação à economia em dados latino-americanos utilizando aprendizagem de máquina
 [Publicado](http://dx.doi.org/10.14488/ENEGEP2023_TN_ST_401_1975_46520)
