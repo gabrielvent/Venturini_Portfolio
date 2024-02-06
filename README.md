@@ -2,6 +2,9 @@
 
 #### Habilidades Técnicas: Python, SQL, Power BI, Machine Learning
 
+## Objetivo
+Aplicar meus conhecimentos na área de Ciência de Dados em posições, como Cientista de Dados, Analista de Dados e Analista de BI
+
 ## Formação
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (_2019 - 2021_)								       		
 - Formação Cientista de Dados 4.0	| Data Science Academy (_2023 - Em andamento_)	 			        		
