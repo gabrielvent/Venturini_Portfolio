@@ -27,12 +27,15 @@ Engenheiro de Produção, determinado e aprendo com muita facilidade. Tenho o **
 Analisei o desempenho de algoritmos de **Machine Learning** para classificar o nível de satisfação do estudante com a universidade, identificando os atributos mais importantes para os modelos. A partir de técnicas de balanceamento no conjunto de dados como _Oversampling, Undersampling_ e a combinação de ambos os métodos, em conjunto com modelos de classificação como **_Random Forest, Multilayer Perceptron, XGBoost_ e _Support Vector Machine_**, classifiquei o estudante entre promotor e detrator. Para avaliar o poder preditivo dos métodos, foram utilizadas métricas de avaliação como acurácia, _f-score_, precisão e _recall_. O melhor modelo foi a combinação de todos os modelos com o método _ensemble voting_, com uma acurácia geral de 90%, a categoria mais importante foi a de notas, com 44,84% de importância, e as variáveis mais importantes foram a satisfação com o próprio curso, a situação de moradia do estudante e a motivação do estudante para estudar.
 
 Melhores Resultados:
+
 ![Melhores Resultados](/assets/best_scores.png)
 
 Resultado Voting:
+
 ![Resultado Voting](/assets/voting.png)
 
 Primeiros Atributos SHAP:
+
 ![SHAP](/assets/shap.png)
 
 ### Avaliação da satisfação de usuários de aeroportos usando aprendizagem de máquina aplicada à base de dados da Secretaria de Aviação Civil
