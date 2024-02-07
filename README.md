@@ -18,8 +18,16 @@ Engenheiro de Produção, determinado e aprendo com muita facilidade. Tenho o **
 
 **Estagiário de Suprimentos @ MSE Engenharia (_Abril 2022 - Setembro 2022_)**
 - Realizei orçamentos e negociei com fornecedores para reduzir custos das obras
-- Responsável por manter os preços históricos atualizados no Banco de Dados 
+- Responsável por manter os preços históricos atualizados no Banco de Dados
 
+### Empresa Júnior
+**Aprimora (_2019/2 - 2019/2_)**
+- Trainee
+
+**MECA Jr (2018/2 - 2019/2_)**
+- Atividades relacionadas a área administrativa, processos internos e burocráticos
+- Atividades relacionadas a área de marketing, atrair clientes e divulgar a EJ em eventos 
+  
 ## Projetos
 ### Técnicas de aprendizagem de máquina para classificação do nível de satisfação do estudante com base em seu perfil e percepção sobre uma universidade
 [Enviado para submissão](https://drive.google.com/file/d/1mWIL1zGipppVKKieSNnN5gx_m9D8AuZQ/view?usp=sharing)
