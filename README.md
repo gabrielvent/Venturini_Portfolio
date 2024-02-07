@@ -24,7 +24,7 @@ Engenheiro de Produção, determinado e aprendo com muita facilidade. Tenho o **
 **Aprimora (_2019/2 - 2019/2_)**
 - Trainee
 
-**MECA Jr (2018/2 - 2019/2_)**
+**MECA Jr (_2018/2 - 2019/2_)**
 - Atividades relacionadas a área administrativa, processos internos e burocráticos
 - Atividades relacionadas a área de marketing, atrair clientes e divulgar a EJ em eventos 
   
