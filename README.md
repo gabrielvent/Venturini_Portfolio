@@ -14,7 +14,7 @@ Engenheiro de Produção, determinado e aprendo com muita facilidade. Tenho o **
 - Responsável por analisar dados de clientes visando otimizar o resultado
 - Desenvolvi dashboards para diversas áreas de atuação, como varejo, franquias, serviços, entre outros
 - Otimizei em 70% a performance de dashboards e automatizei tarefas via Python
-- Utilizei modelos de Machine Learning para identificar padrões em questionários de pesquisae elencar atributos mais importantes para serem priorizados com SHAP
+- Utilizei modelos de Machine Learning para identificar padrões em questionários de pesquisa e elencar atributos mais importantes para serem priorizados com SHAP
 
 **Estagiário de Suprimentos @ MSE Engenharia (_Abril 2022 - Setembro 2022_)**
 - Realizei orçamentos e negociei com fornecedores para reduzir custos das obras
