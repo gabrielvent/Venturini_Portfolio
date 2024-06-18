@@ -7,12 +7,12 @@ Engenheiro de Produção, determinado e aprendo com muita facilidade. Tenho o **
 
 ## Formação
 - Pós Graduando em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - 2026_)
-- 
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (UTFPR) (_2019 - 2023_)								       		
 - Formação Cientista de Dados 4.0	| Data Science Academy (DSA) (_2023 - 2025_)	 			        		
 
 ## Experiências
 **Cientista de Dados @ Trucks Control (_Maio 2024 - Atual_)**
+- Criação de modelos preditivos
 
 **Analista de Dados @ Litz Estratégia e Marketing (_Junho 2023 - Abril 2024_)**
 - Responsável por analisar dados de clientes visando otimizar o resultado
