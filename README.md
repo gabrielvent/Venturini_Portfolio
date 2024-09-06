@@ -1,40 +1,41 @@
-# Cientista de Dados / Analista de Dados / Analista de BI
+# Cientista de Dados
 
 ## Sobre mim
-Engenheiro de Produção, determinado e aprendo com muita facilidade. Tenho o **OBJETIVO** de aplicar meus conhecimentos na área de Ciência de Dados em posições, como Cientista de Dados, Analista de Dados e Analista de BI
+Engenheiro de Produção e Cientista de Dados, determinado e aprendo com muita facilidade. Tenho como **objetivo** aplicar meus conhecimentos e técnicas como Cientista de Dados.
 
-#### Habilidades Técnicas: Python, SQL, Power BI, Machine Learning
+#### Habilidades Técnicas: Python, Machine Learning, SQL, Power BI
 
 ## Formação
-- Pós Graduando em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - 2026_)
+- MBA em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - 2026_)
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (UTFPR) (_2019 - 2023_)								       		
 - Formação Cientista de Dados 4.0	| Data Science Academy (DSA) (_2023 - 2025_)	 			        		
 
 ## Experiências
 **Cientista de Dados @ Trucks Control (_Maio 2024 - Atual_)**
-- Criação de modelos preditivos
+- Modelos preditivos de classificação, reconhecimento de imagens e visão computacional.
+- Ciência de Dados como ferramenta para identificar fatores essenciais e prioritários
 
-**Analista de Dados @ Litz Estratégia e Marketing (_Junho 2023 - Abril 2024_)**
-- Responsável por analisar dados de clientes visando otimizar o resultado
-- Desenvolvi dashboards para diversas áreas de atuação, como varejo, franquias, serviços, entre outros
-- Otimizei em 70% a performance de dashboards e automatizei tarefas via Python
-- Utilizei modelos de Machine Learning para identificar padrões em questionários de pesquisa e elencar atributos mais importantes para serem priorizados com SHAP
+**Analista de Dados @ Litz Estratégia e Marketing (_Junho 2023 - Abril 2024_ ~ 11 meses)**
+- Analisar dados de clientes visando otimizar seus resultados;
+- Dashboards para diversas áreas de atuação, como varejo, franquias, serviços, entre outros;
+- Otimizei em 70% a performance de dashboards e automatizei tarefas via Python;
+- Modelos de Machine Learning para identificar padrões em questionários de pesquisa e elencar atributos mais importantes para serem priorizados com SHAP
 
-**Estagiário de Suprimentos @ MSE Engenharia (_Abril 2022 - Setembro 2022_)**
-- Realizei orçamentos e negociei com fornecedores para reduzir custos das obras
+**Estagiário de Suprimentos @ MSE Engenharia (_Abril 2022 - Setembro 2022_ ~ 6 meses)**
+- Realizei orçamentos e negociei com fornecedores para otimizar custos das obras
 - Responsável por manter os preços históricos atualizados no Banco de Dados
 
 ### Empresa Júnior
-**Aprimora (_2019/2 - 2019/2_)**
+**Aprimora (_2019/2 - 2019/2_ ~ 3 meses)**
 - Trainee
 
-**MECA Jr (_2018/2 - 2019/2_)**
+**MECA Jr (_2018/2 - 2019/2_ ~ 1 ano e 6 meses)**
 - Atividades relacionadas a área administrativa, processos internos e burocráticos
 - Atividades relacionadas a área de marketing, atrair clientes e divulgar a EJ em eventos 
   
 ## Projetos
 ### Técnicas de aprendizagem de máquina para classificação do nível de satisfação do estudante com base em seu perfil e percepção sobre uma universidade
-[Enviado para submissão](https://drive.google.com/file/d/1mWIL1zGipppVKKieSNnN5gx_m9D8AuZQ/view?usp=sharing)
+[Em aguardo](https://drive.google.com/file/d/1mWIL1zGipppVKKieSNnN5gx_m9D8AuZQ/view?usp=sharing)
 
 Analisei o desempenho de algoritmos de **Machine Learning** para classificar o nível de satisfação do estudante com a universidade, identificando os atributos mais importantes para os modelos. A partir de técnicas de balanceamento no conjunto de dados como _Oversampling, Undersampling_ e a combinação de ambos os métodos, em conjunto com modelos de classificação como **_Random Forest, Multilayer Perceptron, XGBoost_ e _Support Vector Machine_**, classifiquei o estudante entre promotor e detrator. Para avaliar o poder preditivo dos métodos, foram utilizadas métricas de avaliação como acurácia, _f-score_, precisão e _recall_. O melhor modelo foi a combinação de todos os modelos com o método _ensemble voting_, com uma acurácia geral de 90%, a categoria mais importante foi a de notas, com 44,84% de importância, e as variáveis mais importantes foram a satisfação com o próprio curso, a situação de moradia do estudante e a motivação do estudante para estudar.
 
