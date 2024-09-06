@@ -7,8 +7,8 @@ Engenheiro de Produção e Cientista de Dados, determinado e aprendo com muita f
 
 ## Formação
 - MBA em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - 2026_)
-- Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (UTFPR) (_2019 - 2023_)								       		
-- Formação Cientista de Dados 4.0	| Data Science Academy (DSA) (_2023 - 2025_)	 			        		
+- Formação Cientista de Dados 4.0	| Data Science Academy (DSA) (_2023 - 2025_) 		
+- Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (UTFPR) (_2019 - 2023_)
 
 ## Experiências
 **Cientista de Dados @ Trucks Control (_Maio 2024 - Atual_)**
