@@ -5,7 +5,7 @@ Londrina/PR - (43) 99976-2523 / gabriel.vent@hotmail.com
 
 Engenheiro de Produção e Cientista de Dados, determinado e aprendo com muita facilidade para aprender. Tenho como **objetivo** aplicar meus conhecimentos e técnicas como Cientista de Dados.
 
-#### Habilidades Técnicas: Python, Machine Learning, SQL, Power BI
+#### Habilidades Técnicas: Python, Machine Learning, SQL, Power BI, Docker
 
 ## Formação
 - MBA em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - 2026_)
