@@ -3,7 +3,7 @@
 ## Sobre mim
 Londrina/PR - (43) 99976-2523 / gabriel.vent@hotmail.com
 
-Engenheiro de Produção e Cientista de Dados, determinado e aprendo com muita facilidade. Tenho como **objetivo** aplicar meus conhecimentos e técnicas como Cientista de Dados.
+Engenheiro de Produção e Cientista de Dados, determinado e aprendo com muita facilidade para aprender. Tenho como **objetivo** aplicar meus conhecimentos e técnicas como Cientista de Dados.
 
 #### Habilidades Técnicas: Python, Machine Learning, SQL, Power BI
 
@@ -14,14 +14,16 @@ Engenheiro de Produção e Cientista de Dados, determinado e aprendo com muita f
 
 ## Experiências
 **Cientista de Dados @ Trucks Control (_Maio 2024 - Atual_)**
-- Modelos preditivos de classificação, reconhecimento de imagens e visão computacional.
-- Ciência de Dados como ferramenta para identificar fatores essenciais e prioritários
+- Modelos anti-fraude;
+- Modelos preditivos de classificação, reconhecimento de imagens e visão computacional;
+- Deploy de modelos via API em contêineres Docker;
+- Ciência de Dados como ferramenta para identificar fatores essenciais e prioritários.
 
 **Analista de Dados @ Litz Estratégia e Marketing (_Junho 2023 - Abril 2024_ ~ 11 meses)**
 - Analisar dados de clientes visando otimizar seus resultados;
-- Dashboards para diversas áreas de atuação, como varejo, franquias, serviços, entre outros;
-- Otimizei em 70% a performance de dashboards e automatizei tarefas via Python;
-- Modelos de Machine Learning para identificar padrões em questionários de pesquisa e elencar atributos mais importantes para serem priorizados com SHAP
+- Desenvolvimento de dashboards para diversas áreas de atuação, como varejo, franquias, serviços, entre outros;
+- Otimazacão da performance de dashboards e automatização de tarefas via Python;
+- Modelos de Machine Learning para identificar padrões em questionários de pesquisa e elencar atributos mais importantes para serem priorizados com SHAP.
 
 **Estagiário de Suprimentos @ MSE Engenharia (_Abril 2022 - Setembro 2022_ ~ 6 meses)**
 - Realizei orçamentos e negociei com fornecedores para otimizar custos das obras
