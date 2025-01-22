@@ -8,8 +8,8 @@ Engenheiro de Produção e Cientista de Dados, determinado e aprendo com muita f
 #### Habilidades Técnicas: Python, Machine Learning, SQL, Power BI, Docker
 
 ## Formação
-- MBA em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - 2026_)
-- Formação Cientista de Dados 4.0	| Data Science Academy (DSA) (_2023 - 2025_) 		
+- MBA em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - Em Andamento_)
+- Formação Cientista de Dados 4.0	| Data Science Academy (DSA) (_2023 - 2024_) 		
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (UTFPR) (_2019 - 2023_)
 
 ## Experiências
