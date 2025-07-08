@@ -3,16 +3,20 @@
 ## Sobre mim
 Londrina/PR - (43) 99976-2523 / gabriel.vent@hotmail.com
 
-Engenheiro de Produção e Cientista de Dados, determinado e aprendo com muita facilidade para aprender. Tenho como **objetivo** aplicar meus conhecimentos e técnicas como Cientista de Dados.
+Engenheiro de Produção e Cientista de Dados, determinado e com muita facilidade para aprender. Tenho como **objetivo** aplicar meus conhecimentos e técnicas como Cientista de Dados.
 
 #### Habilidades Técnicas: Python, Machine Learning, SQL, Power BI, Docker
 
 ## Formação
+- Mestrado em Computação Aplicada - Linha de pesquisa em Inteligência Computacional | Universidade Tecnológica Federal do Paraná (UTFPR) (_2025 - Em Andamento_)
 - MBA em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - Em Andamento_)
 - Formação Cientista de Dados 4.0	| Data Science Academy (DSA) (_2023 - 2024_) 		
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (UTFPR) (_2019 - 2023_)
 
 ## Experiências
+**Residente em Inteligência Artificial (_Julho 2025 - Atual_)**
+- ...
+
 **Cientista de Dados @ Trucks Control (_Maio 2024 - Atual_)**
 - Modelos anti-fraude;
 - Modelos preditivos de classificação, reconhecimento de imagens e visão computacional;
