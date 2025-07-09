@@ -14,7 +14,7 @@ Engenheiro de Produção e Cientista de Dados, determinado e com muita facilidad
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (UTFPR) (_2019 - 2023_)
 
 ## Experiências
-**Residente em Inteligência Artificial (_Julho 2025 - Atual_)**
+**Residente em Inteligência Artificial @ Hub de Inteligência Artificial SENAI - PR (_Julho 2025 - Atual_)**
 - ...
 
 **Cientista de Dados @ Trucks Control (_Maio 2024 - Atual_)**
