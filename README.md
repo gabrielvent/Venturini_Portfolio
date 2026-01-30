@@ -3,13 +3,13 @@
 ## Sobre mim
 Londrina/PR - (43) 99976-2523 / gabriel.vent@hotmail.com
 
-Engenheiro de Produção e Cientista de Dados, determinado e com muita facilidade para aprender. Tenho como **objetivo** aplicar meus conhecimentos e técnicas como Cientista de Dados.
+Especialista em Ciência de Dados e Engenheiro de Produção, determinado e com muita facilidade para aprender. Tenho como objetivo aplicar meus conhecimentos e técnicas como Cientista de Dados.
 
 #### Habilidades Técnicas: Python, Machine Learning, SQL, Power BI, Docker
 
 ## Formação
 - Mestrado em Computação Aplicada - Linha de pesquisa em Inteligência Computacional | Universidade Tecnológica Federal do Paraná (UTFPR) (_2025 - Em Andamento_)
-- MBA em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - Em Andamento_)
+- MBA em Data Science e Analytics | Universidade de São Paulo (USP) (_2024 - 2025_)
 - Formação Cientista de Dados 4.0	| Data Science Academy (DSA) (_2023 - 2024_) 		
 - Bacharelado em Engenharia de Produção | Universidade Tecnológica Federal do Paraná (UTFPR) (_2019 - 2023_)
 
@@ -43,7 +43,7 @@ Engenheiro de Produção e Cientista de Dados, determinado e com muita facilidad
   
 ## Projetos
 ### Técnicas de aprendizagem de máquina para classificação do nível de satisfação do estudante com base em seu perfil e percepção sobre uma universidade
-[Em aguardo](https://drive.google.com/file/d/1mWIL1zGipppVKKieSNnN5gx_m9D8AuZQ/view?usp=sharing)
+[TCC](https://drive.google.com/file/d/1mWIL1zGipppVKKieSNnN5gx_m9D8AuZQ/view?usp=sharing)
 
 Analisei o desempenho de algoritmos de **Machine Learning** para classificar o nível de satisfação do estudante com a universidade, identificando os atributos mais importantes para os modelos. A partir de técnicas de balanceamento no conjunto de dados como _Oversampling, Undersampling_ e a combinação de ambos os métodos, em conjunto com modelos de classificação como **_Random Forest, Multilayer Perceptron, XGBoost_ e _Support Vector Machine_**, classifiquei o estudante entre promotor e detrator. Para avaliar o poder preditivo dos métodos, foram utilizadas métricas de avaliação como acurácia, _f-score_, precisão e _recall_. O melhor modelo foi a combinação de todos os modelos com o método _ensemble voting_, com uma acurácia geral de 90%, a categoria mais importante foi a de notas, com 44,84% de importância, e as variáveis mais importantes foram a satisfação com o próprio curso, a situação de moradia do estudante e a motivação do estudante para estudar.
 
