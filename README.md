@@ -15,11 +15,17 @@ Especialista em Ciência de Dados e Engenheiro de Produção, determinado e com 
 
 ## Experiências
 **Residente em Inteligência Artificial @ Hub de Inteligência Artificial SENAI - PR (_Julho 2025 - Atual_)**
-- ...
+- Atuação em projetos reais com empresas parceiras do SENAI;
+- Tradução de problemas de negócio em problemas analíticos;
+- Construção de modelos de machine learning (regressão, classificação, clustering e séries temporais);
+- Aplicação de técnicas estatísticas e de aprendizado de máquina para resolução de problemas industriais;
+- Avaliação de desempenho de modelos e validação com métricas apropriadas;
+- Documentação técnica e apresentação de resultados para stakeholders técnicos e não técnicos.
 
 **Cientista de Dados @ Trucks Control (_Maio 2024 - Atual_)**
+- Modelos de visão computacional para previsão de classes em vídeos
 - Modelos anti-fraude;
-- Modelos preditivos de classificação, reconhecimento de imagens e visão computacional;
+- Modelos preditivos de classificação e reconhecimento de imagens;
 - Deploy de modelos via API em contêineres Docker;
 - Ciência de Dados como ferramenta para identificar fatores essenciais e prioritários.
 
