@@ -3,16 +3,18 @@
 
 @import "{{ site.theme }}";
 
-/* Aumenta a largura máxima do conteúdo */
-.page-content,
-.wrapper,
-.container,
-main {
-  max-width: 1200px;
+/* Container principal do tema */
+.container {
+  max-width: 1200px !important;
 }
 
-/* Evita excesso de margem lateral */
-.page-content {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+/* Conteúdo Markdown (README) */
+.markdown-body {
+  max-width: 100% !important;
+}
+
+/* Ajuste de respiro lateral */
+.container {
+  padding-left: 24px;
+  padding-right: 24px;
 }
