@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Aumenta a largura máxima do conteúdo */
+.page-content,
+.wrapper,
+.container,
+main {
+  max-width: 1200px;
+}
+
+/* Evita excesso de margem lateral */
+.page-content {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
