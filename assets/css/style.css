@@ -1,6 +1,6 @@
 /* Expande a largura do conteúdo */
 main {
-  max-width: 1200px !important;
+  max-width: 960px !important;
   padding-left: 24px;
   padding-right: 24px;
 }
