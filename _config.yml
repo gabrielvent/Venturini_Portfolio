@@ -1,5 +1,13 @@
 title: Gabriel Venturini
 logo: assets/circle_picture.png
-description: 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Meu currículo e projetos realizados.
+  <br><br>   
+    Email: gabriel.vent@hotmail.com
+    <br><br>  
+    Telefone: +55 (43) 99976-2523
+  <br><br>
+  <a href="https://www.linkedin.com/in/gabrielvent/">Perfil LinkedIn</a>   
 show_downloads: true
 theme: jekyll-theme-minimal
+classes: wide
