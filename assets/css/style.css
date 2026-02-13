@@ -41,34 +41,23 @@ body {
     text-align: left; /* Deixa textos informativos alinhados à esquerda */
 }
 
-.linkedin a {
-    display: flex;
-    align-items: center;
-    justify-content: center; /* Centraliza ícone + texto */
-    gap: 8px;
-    text-decoration: none;
-    color: #0A66C2;
-    font-weight: 600;
-}
-
-.whatsapp a {
+.contact-link a {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 8px;
+    gap: 10px;
     text-decoration: none;
-    color: #25D366;
-    font-weight: 600;
+    color: #333;
+    font-weight: 500;
 }
 
-.email a {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    text-decoration: none;
-    color: #0078D4; /* Azul estilo Microsoft */
-    font-weight: 600;
+.contact-link a:hover {
+    opacity: 0.7;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
 }
 
 /* Coluna direita */
