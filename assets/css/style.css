@@ -23,7 +23,7 @@ body {
 }
 
 .profile-img {
-    width: 180px;
+    width: 200px;
     border-radius: 50%;
     display:block;
     margin: 0 auto 15px auto;
@@ -43,7 +43,7 @@ body {
 
 .contact-link a {
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     gap: 10px;
     text-decoration: none;
