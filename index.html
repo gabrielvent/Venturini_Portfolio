@@ -125,47 +125,73 @@
             A partir de técnicas de balanceamento no conjunto de dados como <i>Oversampling, Undersampling</i> e a combinação de ambos os métodos, em conjunto com modelos de classificação como **<i>Random Forest, Multilayer Perceptron, XGBoost</i> e <i>Support Vector Machine</i>**,
             classifiquei o estudante entre promotor e detrator. Para avaliar o poder preditivo dos métodos, foram utilizadas métricas de avaliação como acurácia, <i>f-score</i>, precisão e <i>recall</i>.
             O melhor modelo foi a combinação de todos os modelos com o método <i>ensemble voting</i>, com uma acurácia geral de 90%, a categoria mais importante foi a de notas, com 44,84% de importância, e as variáveis mais importantes foram a satisfação com o próprio curso, a situação de moradia do estudante e a motivação do estudante para estudar.
-        </p>
-        <p>
+            <br>
             Melhores Resultados:
             <br>
             <img src="assets/images/best_scores.png" class="project-img">
-        </p>
-    
-        <p>
+            <br>
+            
             Resultado Voting:
             <br>
             <img src="assets/images/voting.png" class="project-img">
-        </p>
-        <p>
+            <br>
+            
             Primeiros Atributos SHAP:
             <br>
-            <img src="assets/images/shap.png" class="project-img">
+            <img src="assets/images/shap.png" class="project-img">            
         </p>
 
-        <h3>Satisfação em Aeroportos</h3>
+        
+        <h3>Avaliação da satisfação de usuários de aeroportos usando aprendizagem de máquina aplicada à base de dados da Secretaria de Aviação Civil</h3>
+        <a href="http://dx.doi.org/10.14488/ENEGEP2023_TN_ST_402_1976_45823" target="_blank">
+            Publicado
+        </a>
         <p>
-            Aplicação de Random Forest, KNN, Decision Tree e Naive Bayes.
+            Este artigo relata a aplicação de técnicas de aprendizado de máquina à base de dados da Secretaria Nacional de Aviação Civil com os dados da pesquisa de satisfação de usuários de aeroportos no Brasil.
+            Foram aplicados os métodos **<i>Random Forest, KNN, Decision Tree</i> e <i>Naive Bayes</i>** para classificar a satisfação dos usuários, sendo o grau médio de satisfação dos entrevistados utilizado como variável de saída.
+            A técnica de <i>undersampling</i> foi usada para melhorar o balanceamento da base e melhorar o desempenho das técnicas.
+            Os modelos obtiveram bom desempenho na classificação dos usuários, porém pesquisas futuras ainda serão necessárias para ajustar os parâmetros dos modelos e obter melhores resultados.
+            A pesquisa ainda revelou que os principais fatores que afetam a satisfação são a limpeza, conforto acústico, conforto térmico e disponibilidade de sanitários nos aeroportos.
+            <br>
+            <img src="assets/images/scores_aviacao.png" class="project-img">
         </p>
-        <img src="assets/scores_aviacao.png" class="project-img">
+    
 
-        <h3>Satisfação Econômica Latino-Americana</h3>
+        <h3>Classificação da satisfação em relação à economia em dados latino-americanos utilizando aprendizagem de máquina</h3>
+        <a href="http://dx.doi.org/10.14488/ENEGEP2023_TN_ST_401_1975_46520" target="_blank">
+            Publicado
+        </a>
         <p>
-            Modelos Random Forest, XGBoost e SVM com ensemble voting.
+            Aplicação dos algoritmos **<i>Random Forest, XGBoost</i> e <i>Support Vector Machine</i>** para classificar a satisfação dos latino-americanos com relação à economia de seu país.
+            Os dados utilizados são da pesquisa realizada pela organização Latinobarômetro, e são referentes ao levantamento realizado no ano de 2020.
+            Ao todo, foram contabilizados 23 países e mais de 20 mil entrevistados, que forneceram dados de pesquisa de opinião em relação economia, democracia, além de informações demográficas.
+            Os resultados mostraram que a combinação dos três modelos com o método <i>ensemble voting</i>, alcançou métricas promissoras através de uma votação com peso probabilístico.
+            Para este modelo, atingiu-se acurácia de 85%, com uma precisão de 93% e recall de 88% para a classe de “Insatisfeitos”. Entretanto, os modelos em geral tiveram limitações para a classificação daqueles que são considerados “Satisfeitos” com a economia.
+            Os atributos mais importantes para os modelos foram “Satisfação com a democracia”, “Confiança no presidente” e “Quão justa é a distribuição de renda” foram as que que tiveram maior contribuição para os modelos.
+            <br>
+            <img src="assets/images/scores_latino.png" class="project-img">
         </p>
-        <img src="assets/scores_latino.png" class="project-img">
+        
 
-        <h3>Clusterização de Acidentes</h3>
+        <h3>Técnicas de agrupamento para a análise de acidentes de trânsito na cidade de Belo Horizonte - Minas Gerais no ano de 2021</h3>
+        <a href="http://dx.doi.org/10.14488/ENEGEP2023_TN_ST_401_1975_46517" target="_blank">
+            Publicado
+        </a>
         <p>
-            Aplicação de K-Means e Hierárquico para análise de acidentes.
+            Aplicação de técnicas de clusterização no contexto de acidentes de trânsito na cidade de Belo Horizonte. Os dados foram disponibilizados publicamente pela prefeitura e são provenientes de boletins de ocorrência registrados pela polícia no ano de 2021.
+            Para a criação do conjunto de dados final, foi necessária a fusão de três conjuntos preliminares, análise de instâncias faltantes e transformação de atributos, resultando em uma base processada com 4.562 instâncias e 31 variáveis para análise.
+            Para a etapa de agrupamento, foram utilizados os métodos **<i>K-Means</i> e <i>Hierárquico</i>** para formar os grupos de acidentes com base em suas similaridades.
+            Identificou-se um total de seis clusters que foram discutidos do ponto de vista de suas particularidades, como tipos de acidentes, ocorrências em feriados ou vésperas, características do tempo, características da via, e vítimas fatais.
+            <br>
+            <img src="assets/images/clusters.png" class="project-img">
         </p>
-        <img src="assets/clusters.png" class="project-img">
+        
 
         <h2>Publicações</h2>
         <ol>
-            <li>ENEGEP 2023 - Avaliação da satisfação de usuários de aeroportos</li>
-            <li>ENEGEP 2023 - Classificação da satisfação econômica</li>
-            <li>ENEGEP 2023 - Técnicas de agrupamento para acidentes</li>
+            <li>OLIVEIRA, LEONARDO FERNANDO DE; VENTURINI, GABRIEL CARLOS; JUNIOR, NELSON ANTUNES; LIMA, RAFAEL HENRIQUE PALMA; SANTOS, BRUNO SAMWAYS DOS. AVALIAÇÃO DA SATISFAÇÃO DE USUÁRIOS DE AEROPORTOS USANDO APRENDIZAGEM DE MÁQUINA APLICADA À BASE DE DADOS DA SECRETARIA DE AVIAÇÃO CIVIL. Anais do Encontro Nacional de Engenharia de Produção. [S. l.]: ENEGEP 2023 - Encontro Nacional de Engenharia de Produção, 27 out. 2023. DOI 10.14488/enegep2023_tn_st_402_1976_45823. Disponível em: http://dx.doi.org/10.14488/ENEGEP2023_TN_ST_402_1976_45823.</li>
+            <li>TAUIL, YASSER BULATY; VENTURINI, GABRIEL CARLOS; SANTOS, HENRIQUE SARTORELLO; SANTOS, BRUNO SAMWAYS DOS. CLASSIFICAÇÃO DA SATISFAÇÃO EM RELAÇÃO À ECONOMIA EM DADOS LATINO-AMERICANOS UTILIZANDO APRENDIZAGEM DE MÁQUINA. Anais do Encontro Nacional de Engenharia de Produção. [S. l.]: ENEGEP 2023 - Encontro Nacional de Engenharia de Produção, 27 out. 2023. DOI 10.14488/enegep2023_tn_st_401_1975_46520. Disponível em: http://dx.doi.org/10.14488/ENEGEP2023_TN_ST_401_1975_46520.</li>
+            <li>TAUIL, YASSER BULATY; VENTURINI, GABRIEL CARLOS; DIAS, MATHEUS SANTOS; SANTOS, BRUNO SAMWAYS DOS; LIMA, RAFAEL HENRIQUE PALMA. TÉCNICAS DE AGRUPAMENTO PARA A ANÁLISE DE ACIDENTES DE TR NSITO NA CIDADE DE BELO HORIZONTE - MINAS GERAIS NO ANO DE 2021. Anais do Encontro Nacional de Engenharia de Produção. [S. l.]: ENEGEP 2023 - Encontro Nacional de Engenharia de Produção, 27 out. 2023. DOI 10.14488/enegep2023_tn_st_401_1975_46517. Disponível em: http://dx.doi.org/10.14488/ENEGEP2023_TN_ST_401_1975_46517.</li>
         </ol>
 
     </main>
