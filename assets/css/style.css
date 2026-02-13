@@ -15,11 +15,54 @@ body {
 .sidebar {
     width: 25%;
     padding-right: 40px;
+    text-align: center;
+}
+
+.name {
+    margin-bottom: 15px;
 }
 
 .profile-img {
     width: 200px;
     border-radius: 50%;
+    display:block;
+    margin: 0 auto 15px auto;
+}
+
+.subtitle {
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.info-block {
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 1.6;
+    text-align: left; /* Deixa textos informativos alinhados à esquerda */
+}
+
+.linkedin a {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centraliza ícone + texto */
+    gap: 8px;
+    text-decoration: none;
+    color: #0A66C2;
+    font-weight: 600;
+}
+
+.whatsapp a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    text-decoration: none;
+    color: #25D366;
+    font-weight: 600;
+}
+
+.whatsapp a:hover {
+    opacity: 0.8;
 }
 
 /* Coluna direita */
