@@ -43,12 +43,12 @@ body {
 
 .contact-link a {
     display: flex;
-    align-items: left;
-    justify-content: center;
+    align-items: center;
+    justify-content: flex-start;
     gap: 10px;
-    text-decoration: none;
+    text-decoration: underline;
+    color: #0066cc;
     font-weight: 500;
-    text-align: left;
 }
 
 .contact-link a:hover {
