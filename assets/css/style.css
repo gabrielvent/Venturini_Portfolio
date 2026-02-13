@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #ffffff;
+    color: #333;
+}
+
+.container {
+    width: 1200px;
+    margin: 40px auto;
+    display: flex;
+}
+
+/* Coluna esquerda */
+.sidebar {
+    width: 25%;
+    padding-right: 40px;
+}
+
+.profile-img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+/* Coluna direita */
+.content {
+    width: 75%;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+p {
+    line-height: 1.6;
+}
