@@ -9,6 +9,12 @@ body {
     display: flex;
 }
 
+.project-img {
+    width: 75%;
+    height: auto;
+    margin: 15px 0;
+}
+
 /* Coluna esquerda */
 .sidebar {
     width: 25%;
