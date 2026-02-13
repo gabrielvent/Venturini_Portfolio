@@ -61,8 +61,14 @@ body {
     font-weight: 600;
 }
 
-.whatsapp a:hover {
-    opacity: 0.8;
+.email a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    text-decoration: none;
+    color: #0078D4; /* Azul estilo Microsoft */
+    font-weight: 600;
 }
 
 /* Coluna direita */
